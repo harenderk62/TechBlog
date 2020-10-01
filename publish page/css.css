@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: rgb(0,0,0);
   width: 200px 1000px;
 }
 #heading img {
@@ -74,7 +74,7 @@ body {
 
 /* When you move the mouse over the subnav container, open the subnav content */
 .subnav:hover .subnav-content {
-  display: block;
+  display: rgb(0,0,0);
   background-color: #077;
 }
 .subnav .subnavbtn {
